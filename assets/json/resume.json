@@ -8,9 +8,9 @@
     "url": "https://www.hkubs.hku.hk/people/wei-fangyi/",
     "summary": "",
     "location": {
-      "address": "",
+      "address": "Pokfulam Road",
       "postalCode": "",
-      "city": "",
+      "city": "Hong Kong SAR",
       "countryCode": "",
       "region": ""
     },
@@ -33,28 +33,43 @@
       "highlights": ["Financial Econometrics"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    }
-  ],
   "education": [
     {
-      "institution": "",
-      "location": "",
-      "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "institution": "The University of Hong Kong",
+      "location": "Hong Kong SAR, CN",
+      "url": "https://www.hkubs.hku.hk/people/wei-fangyi/",
+      "area": "Business Analytics / Statistics / Data Science",
+      "studyType": "PhD Student",
+      "startDate": "2023-09-01",
+      "endDate": "PRESENT",
       "score": "",
-      "courses": []
+      "courses": ["Deep Learning", "Neuroscience", "High Dimensional Statistics", "Time Series Analysis"]
+    },
+    {
+      "institution": "The Hong Kong University of Science and Technology",
+      "location": "Hong Kong SAR, CN",
+      "url": "",
+      "area": "Business Analytics",
+      "studyType": "Master of Science",
+      "startDate": "2021-08-25",
+      "endDate": "2022-05-28",
+      "score": "",
+      "courses": ["Business Analytics", "Big Data Analytics", "High Dimensional Statistics", "Optimization Analysis", "Social Media"]
+    },
+    {
+      "institution": "Wuhan University",
+      "location": "Wuhan, Hubei, CN",
+      "url": "",
+      "area": "Mathematics and Applied Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-30",
+      "score": "",
+      "courses": [
+        "Mathematical Analysis", "Advanced Algebra", "Numerical Analysis", "Optimization Theory",
+        "Real Analysis", "Functional Analysis", "Complex Analysis", "Ordinary Differential Equation",
+        "Stochastic Processes", "Discrete Mathematics", "Abstract Algebra"
+      ]
     }
   ],
   "awards": [
@@ -64,6 +79,17 @@
       "awarder": "",
       "url": "",
       "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "certificates": [
