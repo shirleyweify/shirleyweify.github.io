@@ -6,7 +6,7 @@ subtitle: <b><a href='#'>The University of Hong Kong</a>. Hong Kong SAR, CN.</b>
 
 profile:
   align: right
-  image: prof_pic_wei.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>K. K. Leung Building</p>
