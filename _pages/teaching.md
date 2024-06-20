@@ -1,10 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: My teaching and tutorial experiences.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-I am about to serve as a teaching assistant of MSBA 7032 at HKU.
+## Teaching Assistant
+
+<b><i>Summer 2024</i></b>
+
+<b><i>Spring 2024</i></b>
+
+- MSBA 7032 Quantitative Trading
+- EMBA 6621 Business Analytics

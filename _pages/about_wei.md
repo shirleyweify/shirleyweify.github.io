@@ -1,8 +1,8 @@
-I am currently a 1-year PhD student in Innovation and Information Management at HKU.
-My research subarea is business analytics / statistics / data science.
-Click [here](https://hkubs-stat.github.io/) to see our website page.
+### This is Me.
 
-Before joining the HKU, I worked as a research assistant at the [FinStar](https://finstar.ust.hk/) Lab of HKUST for one year.
-I obtained my MSc(BA) degree at HKUST and BSc in mathematics and applied mathematics at Wuhan U.
+Fangyi (Shirley) Wei is a PhD student in [The Statistics Group](https://hkubs-stat.github.io/) at HKU Business School.
+Before joining the HKU, she worked as a research assistant at the [FinStar Lab](https://finstar.ust.hk/) in HKUST for one year.
 
-If you are interested to collaborate, please do not hesitate to reach me by my email fwei@connect.hku.hk.
+Her research interests include deep learning in biostatistics, particularly in neuroscience, financial econometrics, high dimensional statistics and time series analysis.
+
+If you are interested to collaborate, please do not hesitate to reach out via email <b>fwei@connect.hku.hk</b>.
