@@ -3,8 +3,8 @@ layout: profiles
 permalink: /people/
 title: People
 description: networking...
-nav: false
-nav_order: 7
+nav: true
+nav_order: 6
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -26,4 +26,12 @@ profiles:
       <p>K. K. Leung Building</p>
       <p>Pokfulam Road, Hong Kong</p>
       <p>The University of Hong Kong</p>
+
+  - align: right # or left
+    image:
+    content: about_jiang.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>550 16th Street, #2538</p>
+      <p>San Francisco CA 94158</p>
 ---

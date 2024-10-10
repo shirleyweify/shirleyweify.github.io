@@ -1,16 +1,15 @@
 ---
 layout: page
-title: House Prices and Income
-description: Regression analysis of the house prices on the income level in mainland China
+title: House Price and Income Level
+description: Linear Regression of the House Price and the Income Level in Mainland China
 img: assets/img/houseprice.jpg
 importance: 4
 category: econometrics
-related_publications: false
 ---
 
-The relationship between the house prices and the income level in major cities of mainland China is worth to analyze.
-The paper include estimation and statistical inferences of the linear regression of the house prices on the income level.
+The relationship between the house price and the income level in major cities of mainland China is worth to analyze.
+The paper include the estimation and statistical inferences of the linear regression model.
 
     ---
-    Bachelor's thesis in Wuhan University.
+    Bachelor's thesis in the School of Mathematics and Statistics at Wuhan University.
     ---

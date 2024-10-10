@@ -13,14 +13,14 @@ profile:
     <p>Pokfulam Road</p>
     <p>Hong Kong SAR</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in [The Statistics Group](https://hkubs-stat.github.io/) at HKU Business School.
-Before joining the HKU, I worked as a research assistant at the [FinStar Lab](https://finstar.ust.hk/) in HKUST for one year.
+I am a PhD student in [the Statistics Group](https://hkubs-stat.github.io/) at HKU Business School.
+Before joining the HKU, I worked as a research assistant at [FinStar@HKUST](https://finstar.ust.hk/) for one year.
 
-My research interests include deep learning in biostatistics, particularly in neuroscience, financial econometrics, high dimensional statistics and time series analysis.
+My research interest lies in statistical learning and data science, their applications in biostatistics, finance and other business-related senarios.
 
-If you are interested to collaborate, please do not hesitate to reach out via email <b>fwei@connect.hku.hk</b>.
+If you are interested to collaborate, please do not hesitate to reach out via <b>fwei@connect.hku.hk</b>.

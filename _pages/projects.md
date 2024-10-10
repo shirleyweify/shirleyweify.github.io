@@ -4,8 +4,8 @@ title: Research
 permalink: /projects/
 description: A growing collection of my research projects.
 nav: true
-nav_order: 3
-display_categories: [neuroscience, finance, econometrics]
+nav_order: 2
+display_categories: [biostatistics, finance, econometrics]
 horizontal: false
 ---
 
