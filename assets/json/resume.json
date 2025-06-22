@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Fangyi Wei",
-    "label": "PhD Student",
+    "label": "Business analytics, AI healthcare, data science",
     "image": "",
     "email": "fwei@connect.hku.hk",
     "phone": "",
@@ -10,7 +10,7 @@
     "location": {
       "address": "Pokfulam Road",
       "postalCode": "",
-      "city": "Hong Kong SAR",
+      "city": "Hong Kong",
       "countryCode": "",
       "region": ""
     },
@@ -25,18 +25,18 @@
   "education": [
     {
       "institution": "The University of Hong Kong",
-      "location": "Hong Kong SAR, CN",
+      "location": "Hong Kong, CN",
       "url": "https://www.hkubs.hku.hk/people/wei-fangyi/",
-      "area": "Business Analytics / Statistics / Data Science",
-      "studyType": "PhD Student",
+      "area": "Innovation and Information Management",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2023-09",
       "endDate": "NOW",
       "score": "",
-      "courses": ["Nested Deep Learning Model"]
+      "courses": []
     },
     {
       "institution": "The Hong Kong University of Science and Technology",
-      "location": "Hong Kong SAR, CN",
+      "location": "Hong Kong, CN",
       "url": "",
       "area": "Business Analytics",
       "studyType": "Master of Science",
@@ -59,22 +59,42 @@
   ],
   "work": [
     {
-      "name": "FinStar@HKUST",
+      "name": "Finstar Lab, Dept. of Information System and Operation Management, HKUST",
       "position": "Research Assistant",
       "url": "https://finstar.ust.hk/",
       "startDate": "2022-08",
       "endDate": "2023-07",
       "summary": "",
-      "highlights": ["Stock Jump Prediction", "Robo Advisor"]
+      "highlights": ["Factor model and jump prediction", "High-frequency TAQ data processing", "Robo advisor for portfolio management"]
     }
   ],
-  "publications": [
+  "volunteer": [
     {
-      "name": "Nested Deep Learning Model Towards A Foundation Model for Brain Signal Data",
-      "publisher": "arXiv",
-      "releaseDate": "2024-10-07",
-      "url": "https://arxiv.org/abs/2410.03191",
-      "summary": ""
+      "organization": "HKU 2025 Summer Workshop on Statistics and Data Analytics",
+      "position": "Student Volunteer",
+      "url": "https://hkubs-stat.github.io/HKUBA-2025-Summer-Workshop/",
+      "startDate": "2025-06-10",
+      "endDate": "2025-06-10",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "HKU 2024 Summer Workshop on Statistics and Data Analytics",
+      "position": "Student Volunteer",
+      "url": "https://hkubs-stat.github.io/HKU-2024-Summer-Workshop/",
+      "startDate": "2024-06-03",
+      "endDate": "2024-06-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "HKUST IAS-SBM Joint Workshop on Financial Econometrics in the Big Data Era",
+      "position": "General Attendee",
+      "url": "https://ias.hkust.edu.hk/events/hkust-ias-sbm-joint-workshop-on-financial-econometrics-in-the-big-data-era",
+      "startDate": "2024-05-21",
+      "endDate": "2024-05-22",
+      "summary": "",
+      "highlights": []
     }
   ],
   "awards": [
@@ -100,50 +120,51 @@
       "summary": ""
     }
   ],
-  "volunteer": [
-    {
-      "organization": "HKU 2024 Summer Workshop on Statistics and Data Science",
-      "position": "Attendee",
-      "url": "https://saasweb.hku.hk/workshop/sds2024/",
-      "startDate": "2024-07-02",
-      "endDate": "2024-07-02",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "HKU 2024 Summer Workshop on Statistics and Data Analytics",
-      "position": "Volunteer Co-organizer",
-      "url": "https://hkubs-stat.github.io/HKU-2024-Summer-Workshop/",
-      "startDate": "2024-06-03",
-      "endDate": "2024-06-03",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "HKUST IAS-SBM Joint Workshop on Financial Econometrics in the Big Data Era",
-      "position": "Attendee",
-      "url": "https://ias.hkust.edu.hk/events/hkust-ias-sbm-joint-workshop-on-financial-econometrics-in-the-big-data-era",
-      "startDate": "2024-05-21",
-      "endDate": "2024-05-22",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "HKU 2023 Summer Workshop on Statistics and Data Analytics",
-      "position": "Attendee",
-      "url": "https://saasweb.hku.hk/workshop/sda2023/",
-      "startDate": "2023-07-05",
-      "endDate": "2023-07-05",
-      "summary": "",
-      "highlights": []
-    }
-  ],
   "certificates": [
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "name": "Certificate in Teaching and Learning in Higher Education",
+      "date": "2024-05-23",
+      "issuer": "The University of Hong Kong",
       "url": "",
+      "icon": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Nested Deep Learning Model Towards a Foundation Model for Brain Signal Data",
+      "publisher": "arXiv",
+      "releaseDate": "2024-10-07",
+      "url": "https://arxiv.org/abs/2410.03191",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Python",
+        "R",
+        "Matlab",
+        "Stata"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Elementary",
       "icon": ""
     }
   ],

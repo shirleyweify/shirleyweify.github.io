@@ -7,13 +7,16 @@ nav: true
 nav_order: 4
 ---
 
-## Teaching Assistant
+### Teaching Assistant
 
-<b><i>Summer 2024</i></b>
+<b><i>Executive MBA</i></b>
 
-- EMBA 6621 Business Analytics
+- EMBA 6621 Business Analytics (2023/24 - 2024/25)
 
-<b><i>Spring 2024</i></b>
+<b><i>Taught Postgraduate</i></b>
 
-- MSBA 7032 Quantitative Trading
-- EMBA 6621 Business Analytics
+- MSBA 7032 Quantitative Trading (2023/24 - 2024/25)
+
+<b><i>HKSAR Government</i></b>
+
+- Data Leadership Programme (2024/25)
