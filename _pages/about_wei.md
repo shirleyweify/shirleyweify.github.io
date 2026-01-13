@@ -1,6 +1,5 @@
 ### This is Me.
 
-I am a PhD student in [the Statistics Group](https://hkubs-stat.github.io/) at HKU Business School.
-Before joining the HKU, I worked as a research assistant at [FinStar@HKUST](https://finstar.ust.hk/) for one year.
+[Ms. Fangyi Wei](https://www.hkubs.hku.hk/people/wei-fangyi/) is a PhD candidate in Business Analytics, Innovation and Information Management Area at HKU Business School.
 
-My research interest lies in statistical learning and data science, their applications in biostatistics, finance and other business-related senarios.
+Her research interests lie in statistical learning and data science, with applications in healthcare, finance, and other business-related scenarios.

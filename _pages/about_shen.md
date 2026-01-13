@@ -1,9 +1,10 @@
-### My Advisor.
+### Advisor.
 
 [Prof. Haipeng Shen](https://www.hkubs.hku.hk/people/haipeng-shen/) is
-the Associate Dean (Executive Education) at HKU Business School,
-Patrick S C Poon Professor in Analytics and Innovation, and
-Chair of Business Analytics and Innovation.
+Associate Dean (EMBA and IMBA),
+Patrick S C Poon Professor in Analytics and Innovation,
+Chair of Business Analytics and Innovation, and
+Professor of Innovation and Information Management.
 
-His research interest lies in data-driven decision making in the face of uncertainty: 
+His research interests lie in data-driven decision making in the face of uncertainty: 
 big data, business analytics, healthcare analytics, service engineering.
