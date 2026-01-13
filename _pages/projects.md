@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my research projects.
 nav: true
 nav_order: 2
-display_categories: [biostatistics, finance, econometrics]
+display_categories: [healthcare, financial, econometrics]
 horizontal: false
 ---
 

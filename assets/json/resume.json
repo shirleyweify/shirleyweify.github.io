@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Fangyi Wei",
-    "label": "Business analytics, AI healthcare, data science",
+    "label": "AI-driven healthcare analytics, statistical learning and data science",
     "image": "",
     "email": "fwei@connect.hku.hk",
     "phone": "",
@@ -27,9 +27,9 @@
       "institution": "The University of Hong Kong",
       "location": "Hong Kong, CN",
       "url": "https://www.hkubs.hku.hk/people/wei-fangyi/",
-      "area": "Innovation and Information Management",
+      "area": "Business Analytics / Statistics / Data Science",
       "studyType": "Doctor of Philosophy",
-      "startDate": "2023-09",
+      "startDate": "2023",
       "endDate": "NOW",
       "score": "",
       "courses": []
@@ -40,8 +40,8 @@
       "url": "",
       "area": "Business Analytics",
       "studyType": "Master of Science",
-      "startDate": "2021-08",
-      "endDate": "2022-05",
+      "startDate": "2021",
+      "endDate": "2022",
       "score": "4.073/4.3",
       "courses": []
     },
@@ -51,19 +51,19 @@
       "url": "",
       "area": "Mathematics and Applied Mathematics",
       "studyType": "Bachelor of Science",
-      "startDate": "2017-09",
-      "endDate": "2021-06",
+      "startDate": "2017",
+      "endDate": "2021",
       "score": "3.7/4.0",
       "courses": []
     }
   ],
   "work": [
     {
-      "name": "Finstar Lab, Dept. of Information System and Operation Management, HKUST",
+      "name": "Finstar Lab, Information System and Operation Management, HKUST",
       "position": "Research Assistant",
       "url": "https://finstar.ust.hk/",
-      "startDate": "2022-08",
-      "endDate": "2023-07",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "",
       "highlights": ["Factor model and jump prediction", "High-frequency TAQ data processing", "Robo advisor for portfolio management"]
     }

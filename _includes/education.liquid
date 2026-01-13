@@ -1,0 +1,13 @@
+{% assign resume = site.data.resume %}
+
+{% if resume.education %}
+  <div class="education-section">
+    {% for degree in resume.education %}
+      <div class="education-item" style="margin-bottom: 1.0rem;">
+        <strong>{{ degree.studyType }} in {{ degree.area }}</strong><br>
+        {{ degree.institution }}, {{ degree.location }}<br>
+        <em>{{ degree.startDate | slice: 0, 7 }} – {% if degree.endDate == "NOW" %}Present{% else %}{{ degree.endDate | slice: 0, 7 }}{% endif %}</em>
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}

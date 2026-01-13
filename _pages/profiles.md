@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: networking...
+description: Networking...
 nav: false
 nav_order: 6
 
@@ -21,6 +21,15 @@ profiles:
   - align: right # or left
     image:
     content: about_shen.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>K. K. Leung Building</p>
+      <p>Pokfulam Road, Hong Kong</p>
+      <p>The University of Hong Kong</p>
+
+  - align: right # or left
+    image:
+    content: about_tong.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>K. K. Leung Building</p>

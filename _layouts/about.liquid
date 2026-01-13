@@ -10,6 +10,9 @@ layout: default
       {% else %}
         {{ site.title }}
       {% endif %}
+      {% if page.cv_pdf %}
+        <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><small>CV</small> <i class="fa-solid fa-file-pdf"></i></a>
+      {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
@@ -39,6 +42,14 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+
+    <!-- Education -->
+    {% if page.education %}
+      <h2>education</h2>
+      <div style="margin-top: 0.5rem;"></div>
+      {% include education.liquid %}
+      <div style="margin-top: 0.5rem;"></div>
+    {% endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}

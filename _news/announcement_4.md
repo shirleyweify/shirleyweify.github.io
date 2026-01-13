@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-09-01 08:00:00
-inline: true
+title: Started as a PhD student at The University of Hong Kong
+date: 2023-09-01
+inline: false
 related_posts: false
 ---
 
-Started my journey as a PhD student at HKU.
+I formally become a PhD student at HKU Business School majoring in Business Analytics / Statistics / Data Science.

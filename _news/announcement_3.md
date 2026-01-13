@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-08-01 08:00:00
-inline: true
+title: Started a new position as research assistant at HKUST
+date: 2022-08-01
+inline: false
 related_posts: false
 ---
-
-Started to work as an RA at Finstar Lab, HKUST.
